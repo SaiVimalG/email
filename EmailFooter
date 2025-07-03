@@ -1,0 +1,39 @@
+<!-- Unified Footer Section -->
+        <div class="email-footer-unified">
+            <p class="footer-heading">Talk to an expert</p>
+
+            <table align="center" class="footer-contact-table" role="presentation">
+                <tbody>
+                    <tr>
+                        <td width="33.33%"><a href="tel:+919555736737"><!-- Phone Icon IMG --> <img alt="Phone Icon" height="16" src="https://sendy.swainz.com/uploads/1750842941.png" width="16" /> <span>+91 9555736737</span> </a></td>
+                        <td width="33.33%"><a href="https://wa.me/919676317548?text=I%20need%20more%20information%20about%20Australia%20Subclass%20462%20Visa."><!-- WhatsApp Icon IMG --> <img alt="WhatsApp Icon" height="16" src="https://sendy.swainz.com/uploads/1750843023.png" width="16" /> <span>+91 96763 17548</span> </a></td>
+                        <td width="33.33%"><a href="mailto:info@swainz.com"><!-- Email Icon IMG --> <img alt="Email Icon" height="16" src="https://sendy.swainz.com/uploads/1750843080.png" width="16" /> <span>info@swainz.com</span> </a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="footer-links">
+                <a href="https://www.swainz.com/privacy-policy" target="_blank">Privacy Policy</a> |
+                <a href="https://www.swainz.com/terms-and-conditions" target="_blank">Terms &amp; Conditions</a> |
+                <a href="#">View web version</a> |
+                <a href="#">Unsubscribe here</a>
+            </div>
+            <!-- Social Icons Table for better email compatibility centering -->
+
+            <table align="center" class="social-icons-table" role="presentation" style="margin: 0 auto 1.5rem auto;">
+                <tbody>
+                    <tr>
+                        <td>
+                            <a href="https://www.facebook.com/swainzoverseas" style="display: inline-block; margin: 0 5px;" target="_blank"><img alt="Facebook Icon" height="24" src="https://sendy.swainz.com/uploads/1750842266.png" width="24" /> </a>
+                            <a href="https://x.com/SwainzOverseas" style="display: inline-block; margin: 0 5px;" target="_blank"> <img alt="Twitter Icon" height="24" src="https://sendy.swainz.com/uploads/1750842859.png" width="24" /> </a>
+                            <a href="https://instagram.com/swainzoverseas" style="display: inline-block; margin: 0 5px;" target="_blank"> <img alt="Instagram Icon" height="24" src="https://sendy.swainz.com/uploads/1750842788.png" width="24" /> </a>
+                            <a href="https://www.linkedin.com/company/swainzoverseas" style="display: inline-block; margin: 0 5px;" target="_blank"> <img alt="LinkedIn Icon" height="24" src="http://sendy.swainz.com/uploads/1751525935.png" width="24" /> </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p class="email-info-text" style="margin-top: 0;">This email was sent by: Swainz Overseas Careers</p>
+
+            <p class="email-info-text">Central Plaza, 3rd Floor, Raj Bhavan Road, Somajiguda, Hyderabad-500082, India</p>
+        </div>
