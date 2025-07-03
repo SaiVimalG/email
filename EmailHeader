@@ -1,0 +1,11 @@
+<!-- Top Header for Logo and Contact Button using a table -->
+        <table class="top-header-table" role="presentation">
+            <tr>
+                <td class="logo-cell" valign="middle">
+                    <img src="https://sendy.swainz.com/uploads/1750834811.png" alt="Swainz Overseas Careers Logo" class="logo">
+                </td>
+                <td class="contact-button-cell" valign="middle">
+                    <a href="mailto:info@swainz.com" class="contact-button">Contact Us</a>
+                </td>
+            </tr>
+        </table>
